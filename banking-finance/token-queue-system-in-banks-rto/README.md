@@ -67,7 +67,7 @@ javac -d out src/com/ramu/lld/bankqueue/*.java
 ### Execute
 
 ```bash
-java -cp out com.ramu.lld.bankqueue.TokenQueueSystem
+java -cp out com.ramu.lld.bankqueue.TokenQueueApplication
 ```
 
 ## Application Menu

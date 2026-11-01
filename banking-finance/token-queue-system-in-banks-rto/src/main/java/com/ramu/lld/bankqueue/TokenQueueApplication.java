@@ -3,7 +3,7 @@ package com.ramu.lld.bankqueue;
 
 import java.util.Scanner;
 
-public class TokenQueueSystem {
+public class TokenQueueApplication {
 
     public static void main(String[] args) {
 

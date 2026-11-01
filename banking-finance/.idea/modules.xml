@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atm-cash-management-system/atm-cash-management-system.iml" filepath="$PROJECT_DIR$/atm-cash-management-system/atm-cash-management-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banking-finance.iml" filepath="$PROJECT_DIR$/banking-finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/token-queue-system-in-banks-rto/token-queue-system-in-banks-rto.iml" filepath="$PROJECT_DIR$/token-queue-system-in-banks-rto/token-queue-system-in-banks-rto.iml" />
+    </modules>
+  </component>
+</project>
